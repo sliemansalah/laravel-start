@@ -1,5 +1,4 @@
 <h1 align="center"> Laravel-start </h1>
-
 <h2>Installation</h2>
 
 ## Composer Library
@@ -13,6 +12,8 @@ DB_PASSWORD=
 ## create DB on mysql phpmyadmin
 name of db: laravel-start <br>
 php artisan migrate
+## Run Project
+php artisan serve
 
 
 
