@@ -11,8 +11,8 @@ DB_DATABASE=laravel-start <br>
 DB_USERNAME=root <br>
 DB_PASSWORD=
 ## create DB on mysql phpmyadmin
-name of db: laravel-start
-
+name of db: laravel-start <br>
+php artisan migrate
 
 
 
