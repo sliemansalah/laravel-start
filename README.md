@@ -1,9 +1,9 @@
 <h1 align="center"> Laravel-start </h1>
 
 ## Installation
-*** Composer Library *** 
+## Composer Library
 composer global require laravel/installer
-*** Start Project *** 
+## Start Project
 laravel new larvel-start
 
 
